@@ -1,0 +1,25 @@
+{
+  "name": "eitappapis",
+  "version": "1.0.0",
+  "description": "APIs for the eitapp",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesteralfreddohnani/eitappapis.git"
+  },
+  "author": "Alfred Doh-Nani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mesteralfreddohnani/eitappapis/issues"
+  },
+  "homepage": "https://github.com/mesteralfreddohnani/eitappapis#readme",
+  "engines": {
+    "node": "12.13.1"
+  }
+}
